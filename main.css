@@ -1,0 +1,26 @@
+#titulo {
+    color: rgb(231, 231, 231);
+    background-color: rgb(70, 100, 70);
+    padding: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+html {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 10px;
+    text-align: center;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    margin: 10px;
+}
+
+td {
+    padding: 100px;
+}
+th {
+    background-color: antiquewhite;
+}
